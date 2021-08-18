@@ -68,7 +68,7 @@ public class playermovement : MonoBehaviour
     
     #endregion
 
-    // Update function that contains many stuff
+    // Update function that contains many things
     
     #region inputs and others
     public void Update()
